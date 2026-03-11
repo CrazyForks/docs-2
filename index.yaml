@@ -3,6 +3,15 @@ entries:
   docs:
   - apiVersion: v2
     appVersion: latest
+    created: "2026-03-11T12:35:51.830192933Z"
+    digest: 6dfd15bf6151500b248bf287a8e72f3a07a684558622c1a011328bc403b4978a
+    name: docs
+    type: application
+    urls:
+    - https://CrazyForks.github.io/docs-2/docs-4.7.0.tgz
+    version: 4.7.0
+  - apiVersion: v2
+    appVersion: latest
     created: "2026-03-07T13:14:25.599631761Z"
     digest: 363bd2d6902268f407380a15a13f3d34200d37a9b42878516e4ae0631eb2fea1
     name: docs
@@ -415,4 +424,4 @@ entries:
     urls:
     - https://suitenumerique.github.io/docs/docs-0.0.1.tgz
     version: 0.0.1
-generated: "2026-03-07T13:14:25.597299259Z"
+generated: "2026-03-11T12:35:51.828323769Z"
